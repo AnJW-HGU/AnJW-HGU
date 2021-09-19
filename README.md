@@ -1,4 +1,3 @@
-![Salgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJW-HGU&show_icons=true&theme=radical)
 <!--
 **AnJW-HGU/AnJW-HGU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Salgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJW-HGU&show_icons=true&theme=onedark)
