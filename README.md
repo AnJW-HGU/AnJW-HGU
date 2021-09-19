@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi There 👋
 
+I'm studying at Handong Global University.
+ 
 <!-- ![Salgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJW-HGU&show_icons=true&theme=city_lights) -->
