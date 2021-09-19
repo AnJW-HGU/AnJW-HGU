@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi There 👋
+ Hi there, I'm Salgu 👋
 
 I'm studying at Handong Global University.
  
