@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Salgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJW-HGU&show_icons=true&theme=city_lights)
+<!-- ![Salgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJW-HGU&show_icons=true&theme=city_lights) -->
