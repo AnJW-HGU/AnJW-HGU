@@ -22,7 +22,7 @@ I'm studying Computer Science at Handong Global University(HGU).
 2020.03. ~ [한동전산연구회 Computer Research Association](https://cra16.github.io/)
 
 #### *PROJECTS*
-2021.09. ~ 같이배달앱(App)
+2021.09. ~ 같이배달앱(App)  
 2021.06. ~ 스터디투게더(App)
 <!-- 2020.06. ~  -->
 
