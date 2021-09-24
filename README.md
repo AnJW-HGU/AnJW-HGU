@@ -23,7 +23,8 @@ I'm studying Computer Science at Handong Global University(HGU).
 
 #### *PROJECTS*
 2021.09. ~ 같이배달앱(App)  
-2021.06. ~ 스터디투게더(App)
+2021.06. ~ Study Together(App)
+2021.01. - MiniDiary(Console)
 <!-- 2020.06. ~  -->
 
 #### *ACHIEVEMENTS*
