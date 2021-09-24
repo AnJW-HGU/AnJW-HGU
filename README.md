@@ -12,20 +12,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![Salgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJW-HGU&show_icons=true&theme=city_lights) -->
+
+
 ## Hi there, I'm <span style="color:steelblue">Salgu</span> 👋
 
-I'm studying Computer Science at Handong Global University(HGU).
- 
+I'm studying Computer Science at Handong Global University(HGU).  
+* *__1 vacation, 1 project !!!__*  
+  
 ---
-<!-- ![Salgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJW-HGU&show_icons=true&theme=city_lights) -->
+  
 #### *TEAMS*
 2020.03. ~ [한동전산연구회 Computer Research Association](https://cra16.github.io/)
 
 #### *PROJECTS*
 2021.09. ~ 같이배달앱(App)  
-2021.06. ~ Study Together(App)
-2021.01. - MiniDiary(Console)
-<!-- 2020.06. ~  -->
+2021.06. ~ Study Together(App)  
+2021.01. - MiniDiary(Console)  
+2020.06. - CRA Summer Project 
+
+#### *EDUCATION(CAMP)*
+2021.07 - Programming Problem Solving Camp in HGU  
+2021.07 - JAVA Camp in HGU  
+2021.01 - C Camp in HGU <!-- (Pointer, Array, LinkedList, miniProject) -->
 
 #### *ACHIEVEMENTS*
 2020.12. - Encouragement Prize in HGU C Programming Context
