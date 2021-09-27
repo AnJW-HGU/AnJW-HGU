@@ -27,16 +27,16 @@ I'm studying Computer Science at Handong Global University(HGU).
 2020.03. ~ [한동전산연구회 Computer Research Association](https://cra16.github.io/)
 
 #### *PROJECTS*
-2021.09. ~ Anti-King Sudoku, Nondango, Gappy (C program using SAT solver)
-2021.09. ~ 같이배달앱(App)  
-2021.06. ~ Study Together(App)  
-2021.01. - MiniDiary(Console)  
-2020.06. - CRA Summer Project 
+2021.09. ~ Anti-King Sudoku, Nondango, Gappy (C program using SAT solver)  
+2021.09. ~ 같이배달앱 (App)  
+2021.06. ~ Study Together (App)  
+2021.01. - MiniDiary (C++ using Console)  
+2020.06. - CRA Summer Project (App)
 
 #### *EDUCATION(CAMP)*
-2021.07 - Programming Problem Solving Camp in HGU  
-2021.07 - JAVA Camp in HGU  
-2021.01 - C Camp in HGU <!-- (Pointer, Array, LinkedList, miniProject) -->
+2021.07. - Programming Problem Solving Camp in HGU  
+2021.07. - JAVA Camp in HGU  
+2021.01. - C Camp in HGU <!-- (Pointer, Array, LinkedList, miniProject) -->
 
 #### *ACHIEVEMENTS*
 2020.12. - Encouragement Prize in HGU C Programming Context
