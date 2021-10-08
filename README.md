@@ -27,7 +27,8 @@ I'm studying Computer Science at Handong Global University(HGU).
 2020.03. ~ [한동전산연구회 Computer Research Association](https://cra16.github.io/)
 
 #### *PROJECTS*
-2021.09. ~ Anti-King Sudoku, Nondango, Gappy (C program using SAT solver)  
+2021.10. ~ (AppDev)  
+2021.09. - Anti-King Sudoku, Nondango, Gappy (C program using SAT solver)  
 2021.09. ~ 같이배달앱 (App)  
 2021.06. ~ Study Together (App)  
 2021.01. - MiniDiary (C++ using Console)  
