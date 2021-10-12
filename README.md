@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 I'm studying Computer Science at Handong Global University(HGU).  
 * *__1 vacation, 1 project !!!__*  
+* *__READ, LISTEN, WRITE, and CHALLENGE__*
   
 ---
   
