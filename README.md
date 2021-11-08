@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm <span style="color:steelblue">Salgu</span> 👋
 
-I'm studying Computer Science at Handong Global University(HGU).  
+🌱 I'm studying Computer Science at Handong Global University(HGU).  
 * *__1 vacation, 1 project !!!__*  
 * *__READ, LISTEN, WRITE, and CHALLENGE__*
   
@@ -28,12 +28,12 @@ I'm studying Computer Science at Handong Global University(HGU).
 2020.03. ~ [한동전산연구회 Computer Research Association](https://cra16.github.io/)
 
 #### *PROJECTS*
-2021.10. ~ (AppDev)  
+2021.10. ~ 치과기록웹 (AppDev)  
 2021.09. - Anti-King Sudoku, Nondango, Gappy (C program using SAT solver)  
-2021.09. ~ 같이배달앱 (App)  
-2021.06. ~ Study Together (App)  
+2021.09. ~ 같이배달앱 (Flutter)  
+2021.06. ~ Study Together (Flutter)  
 2021.01. - MiniDiary (C++ using Console)  
-2020.06. - CRA Summer Project (App)
+2020.06. - CRA Summer Project (RN)
 
 #### *EDUCATION(CAMP)*
 2021.07. - Programming Problem Solving Camp in HGU  
