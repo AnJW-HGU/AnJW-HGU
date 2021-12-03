@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 #### *PROJECTS*
 2021.11. - Generating Language from Grammars (C)  
-<!-- 2021.10. ~ 치과기록웹 (AppDev) -->  
 2021.09. - Anti-King Sudoku, Nondango, Gappy (C using SAT solver)  
 2021.09. ~ 시킬래요? (Flutter)  
 2021.06. - Study Together (Flutter)  
 2021.01. - MiniDiary (C++ using Console)  
 2020.06. - CRA Summer Project (RN)
+<!-- 2021.10. ~ 치과기록웹 (AppDev) -->
 
 #### *EDUCATION(CAMP)*
 2021.07. - Programming Problem Solving Camp in HGU  
@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 2020.12. - Encouragement Prize in HGU C Programming Context
 
 #### *Additional Qualifications*
-2021.08. ~ Python Education Volunteer in Dongji Girls' High School
+2021.08. - Python Education Volunteer in Dongji Girls' High School  
+2021.12. ~ 2022 Winter Internship Program in Software Factory (Flutter, Firebase)
