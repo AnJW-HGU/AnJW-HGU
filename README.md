@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 2021.01. - C Camp in HGU <!-- (Pointer, Array, LinkedList, miniProject) -->
 
 #### *ACHIEVEMENTS*
-2020.12. - Encouragement Prize in HGU C Programming Context
+2021.12. - Encouragement Prize in National College Stugent Programming Competition  
+2020.12. - Encouragement Prize in HGU C Programming Contest
 
 #### *Additional Qualifications*
 2021.08. - Python Education Volunteer in Dongji Girls' High School  
