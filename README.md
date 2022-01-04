@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 2020.03. ~ [한동전산연구회 Computer Research Association](https://cra16.github.io/)
 
 #### *PROJECTS*
+2022.01. ~ Project Management (Flutter)  
 2021.11. - Generating Language from Grammars (C)  
 2021.09. - Anti-King Sudoku, Nondango, Gappy (C using SAT solver)  
 2021.09. - 시킬래요? (Flutter)  
