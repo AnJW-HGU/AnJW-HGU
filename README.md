@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 2020.03. ~ [한동전산연구회 Computer Research Association](https://cra16.github.io/)
 
 #### *PROJECTS*
-2022.01. ~ Project Management (Flutter)  
+2022.01. ~ Custom Dart Pad (Cloud Run, Dart, ...)  
 2021.11. - Generating Language from Grammars (C)  
 2021.09. - Anti-King Sudoku, Nondango, Gappy (C using SAT solver)  
 2021.09. - 시킬래요? (Flutter)  
@@ -47,5 +47,9 @@ Here are some ideas to get you started:
 2020.12. - Encouragement Prize in HGU C Programming Contest
 
 #### *Additional Qualifications*
+2021.12. ~ 2022 Winter Internship Program in Software Factory (Flutter, Firebase)  
 2021.08. - Python Education Volunteer in Dongji Girls' High School  
-2021.12. ~ 2022 Winter Internship Program in Software Factory (Flutter, Firebase)
+     
+#### *Self-Study*  
+2022.01. ~ Go Language [(doc)](https://github.com/AnJW-HGU/Language-Go)  
+[2022 Study Plan](https://github.com/AnJW-HGU/2022-Study-Plan)  
