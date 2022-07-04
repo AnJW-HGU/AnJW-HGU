@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 2020.03. ~ [한동전산연구회 Computer Research Association](https://cra16.github.io/)
 
 #### *PROJECTS*  
-2022.08. ~ 시킬래요? (Flutter, Firebase)  
-2022.07. ~ i-taxi v.2 (Flutter, Firebase)  
+<!-- 2022.08. ~ 시킬래요? (Flutter, Firebase)  -->
+2022.07. ~ i-taxi 리뉴얼 (Flutter, Firebase)  
 2022.02. ~ Dart Test, Flutter Test (Unit, Widget)  
 2022.01. ~ Custom Dart Pad (Cloud Run, Dart, ...)  
 2021.11. - Generating Language from Grammars (C)  
