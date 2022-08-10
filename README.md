@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 2022.07. ~ i-taxi 리뉴얼 (Flutter, MySql)  
 2022.02. ~ Dart Test, Flutter Test (Unit, Widget)  
 2022.01. ~ Custom Dart Pad (Cloud Run, Dart, ...)  
-2022.01. ~ [MicroLearnable](https://microlearnable.com/) (Dart Pad, Dart & Flutter Test)
+2022.01. ~ [MicroLearnable](https://microlearnable.com/) (Dart Pad, Dart & Flutter Test)  
 2021.11. - Generating Language from Grammars (C)  
 2021.09. - Anti-King Sudoku, Nondango, Gappy (C using SAT solver)  
 2021.09. - 시킬래요? Proto (Flutter, Firebase)  
