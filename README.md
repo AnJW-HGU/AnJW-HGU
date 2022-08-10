@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 
 #### *PROJECTS*  
 <!-- 2022.08. ~ 시킬래요? (Flutter, Firebase)  -->
-2022.07. ~ i-taxi 리뉴얼 (Flutter)  
+2022.07. ~ i-taxi 리뉴얼 (Flutter, MySql)  
 2022.02. ~ Dart Test, Flutter Test (Unit, Widget)  
 2022.01. ~ Custom Dart Pad (Cloud Run, Dart, ...)  
+2022.01. ~ [MicroLearnable](https://microlearnable.com/) (Dart Pad, Dart & Flutter Test)
 2021.11. - Generating Language from Grammars (C)  
 2021.09. - Anti-King Sudoku, Nondango, Gappy (C using SAT solver)  
 2021.09. - 시킬래요? Proto (Flutter, Firebase)  
@@ -41,19 +42,20 @@ Here are some ideas to get you started:
 <!-- 2021.10. ~ 치과기록웹 (AppDev) -->
 
 #### *EDUCATION(CAMP)*
-2021.12. ~ Winter Advanced Flutter Camp in HGU  
+2021.12. - Winter Advanced Flutter Camp in HGU  
 2021.07. - Programming Problem Solving Camp in HGU  
 2021.07. - JAVA Camp in HGU  
 2021.01. - C Camp in HGU <!-- (Pointer, Array, LinkedList, miniProject) -->
 
 #### *ACHIEVEMENTS*
-2021.12. - Encouragement Prize in National College Stugent Programming Competition  
-2020.12. - Encouragement Prize in HGU C Programming Contest
+2021.12. - Encouragement Prize in National College Stugent Programming Competition (Python)  
+2020.12. - Encouragement Prize in HGU C Programming Contest (C)
 
 #### *Additional Qualifications*
-2021.12. ~ 2022 Winter Internship Program in Software Factory (Flutter, Firebase)  
-2021.08. - Python Education Volunteer in Dongji Girls' High School  
+2022.03. - 2022-1 ICT응용입문 Teaching Assistant in HGU (MIT App Inventor)  
+2021.12. - 2022 Winter Internship Program in Software Factory (Flutter, Firebase)  
+2021.08. - Python Education Volunteer in Dongji Girls' High School (Python)  
      
-#### *Self-Study*  
+<!-- #### *Self-Study*  
 2022.01. ~ Go Language [(doc)](https://github.com/AnJW-HGU/Language-Go)  
-[2022 Study Plan](https://github.com/AnJW-HGU/2022-Study-Plan)  
+[2022 Study Plan](https://github.com/AnJW-HGU/2022-Study-Plan)  -->
