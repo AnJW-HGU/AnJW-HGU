@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 ---
   
 #### *TEAMS*
+2022.10. ~ [아리바이오](http://www.aribio.com/)  
 2022.01. ~ [SWF Software Factory Inc](http://swfact.com/)  
 2020.03. ~ [한동전산연구회 Computer Research Association](https://cra16.github.io/)
 
 #### *PROJECTS*  
 <!-- 2022.08. ~ 시킬래요? (Flutter, Firebase)  -->
+2022.10. ~ Memo:Re (Flutter, Firebase, ... )  
 2022.07. ~ i-taxi 리뉴얼 (Flutter, MySql)  
 2022.02. ~ Dart Test, Flutter Test (Unit, Widget)  
 2022.01. ~ Custom Dart Pad (Cloud Run, Dart, ...)  
@@ -49,10 +51,12 @@ Here are some ideas to get you started:
 2021.01. - C Camp in HGU <!-- (Pointer, Array, LinkedList, miniProject) -->
 
 #### *ACHIEVEMENTS*
+2022.10. - Top prize in HGU SW Festival (Smart Applcation Contest)  
 2021.12. - Encouragement Prize in National College Stugent Programming Competition (Python)  
 2020.12. - Encouragement Prize in HGU C Programming Contest (C)
 
 #### *Additional Qualifications*
+2022.08. - 2022-2 App programming Teaching Assistant in HGU (HTML, CSS, JS)  
 2022.03. - 2022-1 ICT응용입문 Teaching Assistant in HGU (MIT App Inventor)  
 2021.12. - 2022 Winter Internship Program in Software Factory (Flutter, Firebase)  
 2021.08. - Python Education Volunteer in Dongji Girls' High School (Python)  
