@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 
 #### *PROJECTS*  
 <!-- 2022.08. ~ 시킬래요? (Flutter, Firebase)  -->
-2022.10. ~ Memo:Re (Flutter, Firebase, ... )  
-2022.07. ~ i-taxi 리뉴얼 (Flutter, MySql)  
-2022.02. ~ Dart Test, Flutter Test (Unit, Widget)  
-2022.01. ~ Custom Dart Pad (Cloud Run, Dart, ...)  
-2022.01. ~ [MicroLearnable](https://microlearnable.com/) (Dart Pad, Dart & Flutter Test)  
+2023.06. ~ Image Station (React, Firebase)  
+2022.10. - Memo:Re (Flutter, Firebase, ... )  
+2022.07. - i-taxi 리뉴얼 (Flutter, Firebase, MySql, ...)  
+2022.02. - Dart Test, Flutter Test (Unit, Widget)  
+2022.01. - Custom Dart Pad (Cloud Run, Dart, ...)  
+2022.01. - [MicroLearnable](https://microlearnable.com/) (Dart Pad, Dart & Flutter Test)  
 2021.11. - Generating Language from Grammars (C)  
 2021.09. - Anti-King Sudoku, Nondango, Gappy (C using SAT solver)  
 2021.09. - 시킬래요? Proto (Flutter, Firebase)  
@@ -56,6 +57,8 @@ Here are some ideas to get you started:
 2020.12. - Encouragement Prize in HGU C Programming Contest (C)
 
 #### *Additional Qualifications*
+2023.03. - Python Education Volunteer in Dongji Girls' High School (Python)  
+2023.03. - 2023-1 ICT응용입문 Teaching Assistant in HGU (MIT App Inventor)  
 2022.08. - 2022-2 App programming Teaching Assistant in HGU (HTML, CSS, JS)  
 2022.03. - 2022-1 ICT응용입문 Teaching Assistant in HGU (MIT App Inventor)  
 2021.12. - 2022 Winter Internship Program in Software Factory (Flutter, Firebase)  
