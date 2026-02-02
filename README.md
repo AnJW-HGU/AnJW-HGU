@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ---
   
 #### *TEAMS*
+2026.02. ~ [IILAB](https://iilab.handong.edu/)  
 2022.10. - [아리바이오](http://www.aribio.com/)  
 2022.01. - [SWF Software Factory Inc](http://swfact.com/)  
 2020.03. - [한동전산연구회 Computer Research Association](https://cra16.github.io/)
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 #### *PROJECTS*  
 <!-- 2022.08. ~ 시킬래요? (Flutter, Firebase)  -->
 2025.11. ~ SR + Cls, End-to-End 모델 연구 (pytorch)  
-2024.11. ~ 장비사이트 웹 외주 (React, Firebase)  
+2024.11. - 장비사이트 웹 외주 (React, Firebase)  
 2024.10. - Glean 앱 외주 (Flutter, Firebase, ...)  
 2024.02. - 아바타테라퓨틱 웹 외주 (React, Firebase)  
 2023.06. - Image Station (React, Firebase)  
